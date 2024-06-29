@@ -4,7 +4,7 @@ import Contact from "./components/contact/Contact";
 import Home from "./components/home/Home";
 import Project from "./components/projects/Project";
 import Page from "./pages/first/Page";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
   return (
