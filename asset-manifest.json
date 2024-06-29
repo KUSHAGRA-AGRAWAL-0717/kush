@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kush/static/css/main.86cb80bb.css",
+    "main.js": "/kush/static/js/main.add8e085.js",
+    "static/media/ph.jpg": "/kush/static/media/ph.306a8d21d3a7628a9965.jpg",
+    "index.html": "/kush/index.html",
+    "main.86cb80bb.css.map": "/kush/static/css/main.86cb80bb.css.map",
+    "main.add8e085.js.map": "/kush/static/js/main.add8e085.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86cb80bb.css",
+    "static/js/main.add8e085.js"
+  ]
+}
